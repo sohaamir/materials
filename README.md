@@ -1,3 +1,3 @@
-# Presentations and posters
+# Materials
 
-A collection of presentations for talks I have done, and posters from conferences.
+A collection of materials, mainly presentations for talks I have given, and conference posters.
